@@ -15,7 +15,7 @@ public class DFIndiv01 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        String nombreyapellidos = "Alejandro Díaz Flores.";
+        String nombreyapellidos = "Mi nombre es Alejandro Díaz Flores.";
         int variable_entera = 13;
         System.out.print(nombreyapellidos+ " Para esta práctica, como se nos ha indicado he creado una variable tipo objeto con mi nombre y una variable con tipo de datos primitivos declarándola  con int y el valor: "+variable_entera);
             }
